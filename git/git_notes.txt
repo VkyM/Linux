@@ -1,0 +1,20 @@
+1] clone the repository in local    ->  git clone <repository_URL>
+
+2] Add the files in git repository  ->  git add -A <folder>
+
+3] commit the code in local         ->  git commit -am "First commit"
+
+4] push the code in web             ->  git push
+
+5] pull the code from web           ->  git pull
+
+6] Reset the previous change        ->  git reset --hard <hash_code>
+
+7] List branch                      ->  git branch
+
+8] Create branch                    ->  git checkout -b <branch_name>
+
+9] Change branch                    ->  git checkout master
+
+10]Merge branch with Main           ->  git merge <branch_name>
+                                    
